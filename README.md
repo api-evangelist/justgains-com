@@ -1,4 +1,4 @@
-# justgains-com
+# JustGains
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,139 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-justgains-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://justgains.com/
+JustGains is a fitness platform offering workout logging, creator training content, nutrition tracking, and a public catalog of exercises, recipes, and workout templates. Available on web, iOS, and Android, it provides tools, guides, and a flexible workout forge for personalized training without requiring a signed-in account for public content.
+
+**Areas:** Fitness · Health · Workout · Nutrition · Platform
+
+## JustGains on APIs.io
+
+Everything profiled for JustGains is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/justgains-com/](https://apis.io/providers/justgains-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (19)
+
+- [JustGains Auth API](https://apis.io/apis/justgains-com/justgains-com-auth-api/) — The Auth API from JustGains — 5 operation(s) for auth.
+- [JustGains Authen API](https://apis.io/apis/justgains-com/justgains-com-authen-api/) — The Authen API from JustGains — 8 operation(s) for authen.
+- [JustGains Creator Profiles API](https://apis.io/apis/justgains-com/justgains-com-creatorprofiles-api/) — The CreatorProfiles API from JustGains — 2 operation(s) for creatorprofiles.
+- [JustGains Equipment API](https://apis.io/apis/justgains-com/justgains-com-equipment-api/) — The Equipment API from JustGains — 3 operation(s) for equipment.
+- [JustGains Equipment Groups API](https://apis.io/apis/justgains-com/justgains-com-equipmentgroups-api/) — The EquipmentGroups API from JustGains — 3 operation(s) for equipmentgroups.
+- [JustGains Exercise API](https://apis.io/apis/justgains-com/justgains-com-exercise-api/) — The Exercise API from JustGains — 10 operation(s) for exercise.
+- [JustGains Exercise Category API](https://apis.io/apis/justgains-com/justgains-com-exercisecategory-api/) — The ExerciseCategory API from JustGains — 3 operation(s) for exercisecategory.
+- [JustGains Exercise Draft API](https://apis.io/apis/justgains-com/justgains-com-exercisedraft-api/) — The ExerciseDraft API from JustGains — 1 operation(s) for exercisedraft.
+- [JustGains Exercise Instruction API](https://apis.io/apis/justgains-com/justgains-com-exerciseinstruction-api/) — The ExerciseInstruction API from JustGains — 2 operation(s) for exerciseinstruction.
+- [JustGains Exercise Metric API](https://apis.io/apis/justgains-com/justgains-com-exercisemetric-api/) — The ExerciseMetric API from JustGains — 3 operation(s) for exercisemetric.
+- [JustGains Exercise Video API](https://apis.io/apis/justgains-com/justgains-com-exercisevideo-api/) — The ExerciseVideo API from JustGains — 4 operation(s) for exercisevideo.
+- [JustGains Just Gains API](https://apis.io/apis/justgains-com/justgains-com-justgains-api-api/) — The JustGains-API API from JustGains — 1 operation(s) for justgains-api.
+- [JustGains Locale API](https://apis.io/apis/justgains-com/justgains-com-locale-api/) — The Locale API from JustGains — 3 operation(s) for locale.
+- [JustGains Media Asset API](https://apis.io/apis/justgains-com/justgains-com-mediaasset-api/) — The MediaAsset API from JustGains — 3 operation(s) for mediaasset.
+- [JustGains Muscle API](https://apis.io/apis/justgains-com/justgains-com-muscle-api/) — The Muscle API from JustGains — 3 operation(s) for muscle.
+- [JustGains Muscle Group API](https://apis.io/apis/justgains-com/justgains-com-musclegroup-api/) — The MuscleGroup API from JustGains — 3 operation(s) for musclegroup.
+- [JustGains Published Statuses API](https://apis.io/apis/justgains-com/justgains-com-publishedstatuses-api/) — The PublishedStatuses API from JustGains — 4 operation(s) for publishedstatuses.
+- [JustGains User API](https://apis.io/apis/justgains-com/justgains-com-user-api/) — The User API from JustGains — 2 operation(s) for user.
+- [JustGains Workout API](https://apis.io/apis/justgains-com/justgains-com-workout-api/) — The Workout API from JustGains — 5 operation(s) for workout.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [JustGains Agentic Access](https://apis.io/agentic-access/justgains-com/justgains-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [ExerciseDto](https://apis.io/schemas/justgains-com/justgains-com-exercise-dto/)
+- [ExerciseRequest](https://apis.io/schemas/justgains-com/justgains-com-exercise-request/)
+- [MediaAsset](https://apis.io/schemas/justgains-com/justgains-com-media-asset/)
+- [User](https://apis.io/schemas/justgains-com/justgains-com-user/)
+- [Workout](https://apis.io/schemas/justgains-com/justgains-com-workout/)
+- [WorkoutData](https://apis.io/schemas/justgains-com/justgains-com-workout-data/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Justgains Com Context](https://apis.io/jsonld/justgains-com/justgains-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [JustGains API Rules](https://apis.io/rules/justgains-com/justgains-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [JustGains Authentication](https://apis.io/security/justgains-com/justgains-com-authentication/)
+- [JustGains Domain Security](https://apis.io/security/justgains-com/justgains-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://justgains.com/)
+- [Documentation](https://justgains.com/sitemap.md)
+- [API reference](https://justgains.com/llms-full.txt)
+- [Changelog](https://justgains.com/changelog)
+- [Terms of service](https://justgains.com/terms)
+- [Privacy policy](https://justgains.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 43.7** — developing · rubric 0.27.0 · scored 2026-11-13
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 50.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 34.2 |
+
+**Agent readiness 45.3** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 19.5** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/justgains-com/](https://apis.io/providers/justgains-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for JustGains: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/justgains-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
